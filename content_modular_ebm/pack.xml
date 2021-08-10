@@ -1,0 +1,1129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root version="5">
+  <loops>
+    <loop id="0" sample_id="cb75a358-1587-46e3-83a6-7bf80d8b5be3">
+      <name>Grit Punchy</name>
+      <file name="DRUMS 1 - A (Freeze) [2021-08-02 130617].m4a"/>
+      <duration beat="32"/>
+      <gain dB="-3"/>
+      <kind>Drums</kind>
+      <tempo value="118"/>
+      <key root="" scale=""/>
+      <time_sig>4_4</time_sig>
+      <sub_category1>Punchy</sub_category1>
+      <sub_category2/>
+      <genre>None</genre>
+      <sub_genre/>
+      <swing root="16" percentage="0"/>
+      <lufs dB="-15.2"/>
+      <locale_names>
+        <name xml:lang="zh-Hans">强力-使用构建</name>
+        <name xml:lang="en-GB">Grit Punchy</name>
+      </locale_names>
+    </loop>
+    <loop id="1" sample_id="cc465a2b-e62c-4f06-8277-dbda11400dc8">
+      <name>Serpent Dank</name>
+      <file name="DRUMS 1 - B (Freeze) [2021-08-02 130629].m4a"/>
+      <duration beat="32"/>
+      <gain dB="-3"/>
+      <kind>Drums</kind>
+      <tempo value="118"/>
+      <key root="" scale=""/>
+      <time_sig>4_4</time_sig>
+      <sub_category1>Dank</sub_category1>
+      <sub_category2/>
+      <genre>None</genre>
+      <sub_genre/>
+      <swing root="16" percentage="0"/>
+      <lufs dB="-12.4"/>
+      <locale_names>
+        <name xml:lang="en-GB">Serpent Dank</name>
+        <name xml:lang="zh-Hans">阴冷-奔跑构建</name>
+      </locale_names>
+    </loop>
+    <loop id="2" sample_id="1e8b1c3a-fbf0-4bf1-9cf6-6ac18454921f">
+      <name>Cast Brutal</name>
+      <file name="DRUMS 1 - C  (Freeze) [2021-08-02 130648].m4a"/>
+      <duration beat="16"/>
+      <gain dB="-3"/>
+      <kind>Drums</kind>
+      <tempo value="118"/>
+      <key root="" scale=""/>
+      <time_sig>4_4</time_sig>
+      <sub_category1>Brutal</sub_category1>
+      <sub_category2/>
+      <genre>None</genre>
+      <sub_genre/>
+      <swing root="16" percentage="0"/>
+      <lufs dB="-14.5"/>
+      <locale_names>
+        <name xml:lang="en-GB">Cast Brutal</name>
+        <name xml:lang="zh-Hans">粗犷-移动艺术家</name>
+      </locale_names>
+    </loop>
+    <loop id="3" sample_id="63334ed4-a023-437f-ba22-dcb3aa7a0f8a">
+      <name>Feast Simple</name>
+      <file name="DRUMS 1 - D (Freeze) [2021-08-02 130700].m4a"/>
+      <duration beat="32"/>
+      <gain dB="-3"/>
+      <kind>Drums</kind>
+      <tempo value="118"/>
+      <key root="" scale=""/>
+      <time_sig>4_4</time_sig>
+      <sub_category1>Simple</sub_category1>
+      <sub_category2/>
+      <genre>None</genre>
+      <sub_genre/>
+      <swing root="16" percentage="0"/>
+      <lufs dB="-14"/>
+      <locale_names>
+        <name xml:lang="zh-Hans">简单-听开始</name>
+        <name xml:lang="en-GB">Feast Simple</name>
+      </locale_names>
+    </loop>
+    <loop id="4" sample_id="483c99f4-9d64-4687-a980-a908ba6ff557">
+      <name>Blue Bright</name>
+      <file name="DRUMS 1 - E (Freeze) [2021-08-02 140717].m4a"/>
+      <duration beat="16"/>
+      <gain dB="-3"/>
+      <kind>Drums</kind>
+      <tempo value="118"/>
+      <key root="" scale=""/>
+      <time_sig>4_4</time_sig>
+      <sub_category1>Bright</sub_category1>
+      <sub_category2/>
+      <genre>None</genre>
+      <sub_genre/>
+      <swing root="16" percentage="0"/>
+      <lufs dB="-15.1"/>
+      <locale_names>
+        <name xml:lang="zh-Hans">清亮-创建艺术家</name>
+        <name xml:lang="en-GB">Blue Bright</name>
+      </locale_names>
+    </loop>
+    <loop id="5" sample_id="ccc2352c-0e62-4c6e-9e70-9540f6bc234a">
+      <name>Nitro Heavy</name>
+      <file name="DRUMS 1 1 (Freeze) [2021-08-02 140725].m4a"/>
+      <duration beat="16"/>
+      <gain dB="-3"/>
+      <kind>Drums</kind>
+      <tempo value="118"/>
+      <key root="" scale=""/>
+      <time_sig>4_4</time_sig>
+      <sub_category1>Heavy</sub_category1>
+      <sub_category2/>
+      <genre>None</genre>
+      <sub_genre/>
+      <swing root="16" percentage="0"/>
+      <lufs dB="-15.1"/>
+      <locale_names>
+        <name xml:lang="zh-Hans">沉重-绘画说话-1</name>
+        <name xml:lang="en-GB">Nitro Heavy</name>
+      </locale_names>
+    </loop>
+    <loop id="6" sample_id="e92a255a-26aa-45fd-b822-2349bacded2e">
+      <name>Grit Percussion</name>
+      <file name="DRUMS 2- A (Freeze) [2021-08-02 131056].m4a"/>
+      <duration beat="32"/>
+      <gain dB="-3"/>
+      <kind>Percussion</kind>
+      <tempo value="118"/>
+      <key root="" scale=""/>
+      <time_sig>4_4</time_sig>
+      <sub_category1>Percussion</sub_category1>
+      <sub_category2/>
+      <genre>None</genre>
+      <sub_genre/>
+      <swing root="16" percentage="0"/>
+      <lufs dB="-31.8"/>
+      <locale_names>
+        <name xml:lang="en-GB">Grit Percussion</name>
+        <name xml:lang="zh-Hans">打击乐器-奔跑音乐家-4</name>
+      </locale_names>
+    </loop>
+    <loop id="7" sample_id="a18814e0-f9f8-4529-958e-6640a4ed8850">
+      <name>Serpent Glitch</name>
+      <file name="DRUMS 2 - B (Freeze) [2021-08-02 124213].m4a"/>
+      <duration beat="32"/>
+      <gain dB="-3"/>
+      <kind>Percussion</kind>
+      <tempo value="118"/>
+      <key root="" scale=""/>
+      <time_sig>4_4</time_sig>
+      <sub_category1>Glitch</sub_category1>
+      <sub_category2/>
+      <genre>None</genre>
+      <sub_genre/>
+      <swing root="16" percentage="0"/>
+      <lufs dB="-24.8"/>
+      <locale_names>
+        <name xml:lang="zh-Hans">失误-开始穿戴-1</name>
+        <name xml:lang="en-GB">Serpent Glitch</name>
+      </locale_names>
+    </loop>
+    <loop id="8" sample_id="476ed6d8-6e30-4070-a457-3196849898fe">
+      <name>Cast Cheeky</name>
+      <file name="DRUMS 2 - C (Freeze) [2021-08-02 131112].m4a"/>
+      <duration beat="16"/>
+      <gain dB="-3"/>
+      <kind>Percussion</kind>
+      <tempo value="118"/>
+      <key root="" scale=""/>
+      <time_sig>4_4</time_sig>
+      <sub_category1>Cheeky</sub_category1>
+      <sub_category2/>
+      <genre>None</genre>
+      <sub_genre/>
+      <swing root="16" percentage="0"/>
+      <lufs dB="-13.2"/>
+      <locale_names>
+        <name xml:lang="zh-Hans">奔放-使用宏大</name>
+        <name xml:lang="en-GB">Cast Cheeky</name>
+      </locale_names>
+    </loop>
+    <loop id="9" sample_id="ad61c681-04e1-4a32-bf39-4b5137d12c15">
+      <name>Feast Synthetic</name>
+      <file name="DRUMS 2 - D (Freeze) [2021-08-02 140656].m4a"/>
+      <duration beat="16"/>
+      <gain dB="-3"/>
+      <kind>Percussion</kind>
+      <tempo value="118"/>
+      <key root="" scale=""/>
+      <time_sig>4_4</time_sig>
+      <sub_category1>Synthetic</sub_category1>
+      <sub_category2/>
+      <genre>None</genre>
+      <sub_genre/>
+      <swing root="16" percentage="0"/>
+      <lufs dB="-27.1"/>
+      <locale_names>
+        <name xml:lang="zh-Hans">合成-乐队作曲家-3</name>
+        <name xml:lang="en-GB">Feast Synthetic</name>
+      </locale_names>
+    </loop>
+    <loop id="10" sample_id="4bdea353-2dd6-4958-a5fa-e2dedb0bfdb8">
+      <name>Blue Percussion</name>
+      <file name="DRUMS 2 - E (Freeze) [2021-08-02 124210].m4a"/>
+      <duration beat="32"/>
+      <gain dB="-3"/>
+      <kind>Percussion</kind>
+      <tempo value="118"/>
+      <key root="" scale=""/>
+      <time_sig>4_4</time_sig>
+      <sub_category1>Percussion</sub_category1>
+      <sub_category2/>
+      <genre>None</genre>
+      <sub_genre/>
+      <swing root="16" percentage="0"/>
+      <lufs dB="-30.4"/>
+      <locale_names>
+        <name xml:lang="en-GB">Blue Percussion</name>
+        <name xml:lang="zh-Hans">打击乐器-超级音乐家-4</name>
+      </locale_names>
+    </loop>
+    <loop id="11" sample_id="a6137bc3-6543-4fe3-ab53-81d4a331957d">
+      <name>Nitro Electric</name>
+      <file name="DRUMS 2 1 (Freeze) [2021-08-02 142101].m4a"/>
+      <duration beat="16"/>
+      <gain dB="-3"/>
+      <kind>Percussion</kind>
+      <tempo value="118"/>
+      <key root="" scale=""/>
+      <time_sig>4_4</time_sig>
+      <sub_category1>Electric</sub_category1>
+      <sub_category2/>
+      <genre>None</genre>
+      <sub_genre/>
+      <swing root="16" percentage="0"/>
+      <lufs dB="-25.8"/>
+      <locale_names>
+        <name xml:lang="en-GB">Nitro Electric</name>
+        <name xml:lang="zh-Hans">电子-奔跑移动-2</name>
+      </locale_names>
+    </loop>
+    <loop id="12" sample_id="b5b658ec-29d4-4fff-9a67-f08817d37f2f">
+      <name>Grit Synth</name>
+      <file name="BASS - A (Freeze) [2021-08-02 142111].m4a"/>
+      <duration beat="32"/>
+      <gain dB="-3"/>
+      <kind>Bass</kind>
+      <tempo value="118"/>
+      <key root="6" scale="minor"/>
+      <time_sig>4_4</time_sig>
+      <sub_category1>Synth</sub_category1>
+      <sub_category2/>
+      <genre>None</genre>
+      <sub_genre/>
+      <swing root="16" percentage="0"/>
+      <lufs dB="-19.8"/>
+      <locale_names>
+        <name xml:lang="en-GB">Grit Synth</name>
+        <name xml:lang="zh-Hans">合成器-开始招手-5</name>
+      </locale_names>
+    </loop>
+    <loop id="13" sample_id="6a272014-5a99-48d9-be22-7d0a9b6517dd">
+      <name>Serpent Electric</name>
+      <file name="BASS - B (Freeze) [2021-08-02 142118].m4a"/>
+      <duration beat="16"/>
+      <gain dB="-3"/>
+      <kind>Bass</kind>
+      <tempo value="118"/>
+      <key root="6" scale="minor"/>
+      <time_sig>4_4</time_sig>
+      <sub_category1>Electric</sub_category1>
+      <sub_category2/>
+      <genre>None</genre>
+      <sub_genre/>
+      <swing root="16" percentage="0"/>
+      <lufs dB="-18.1"/>
+      <locale_names>
+        <name xml:lang="zh-Hans">电子-创建音乐家-5</name>
+        <name xml:lang="en-GB">Serpent Electric</name>
+      </locale_names>
+    </loop>
+    <loop id="14" sample_id="26578ab0-63d9-4c96-92ba-0ed6f02c82f9">
+      <name>Cast Glitch</name>
+      <file name="BASS - C (Freeze) [2021-08-02 142125].m4a"/>
+      <duration beat="16"/>
+      <gain dB="-3"/>
+      <kind>Bass</kind>
+      <tempo value="118"/>
+      <key root="6" scale="minor"/>
+      <time_sig>4_4</time_sig>
+      <sub_category1>Glitch</sub_category1>
+      <sub_category2/>
+      <genre>None</genre>
+      <sub_genre/>
+      <swing root="16" percentage="0"/>
+      <lufs dB="-15.1"/>
+      <locale_names>
+        <name xml:lang="zh-Hans">失误-奔跑招手-2</name>
+        <name xml:lang="en-GB">Cast Glitch</name>
+      </locale_names>
+    </loop>
+    <loop id="15" sample_id="71601801-460b-4d2c-b3cb-5a16621bdb85">
+      <name>Feast Digital</name>
+      <file name="BASS - D (Freeze) [2021-08-02 142135].m4a"/>
+      <duration beat="32"/>
+      <gain dB="-3"/>
+      <kind>Bass</kind>
+      <tempo value="118"/>
+      <key root="6" scale="minor"/>
+      <time_sig>4_4</time_sig>
+      <sub_category1>Digital</sub_category1>
+      <sub_category2/>
+      <genre>None</genre>
+      <sub_genre/>
+      <swing root="16" percentage="0"/>
+      <lufs dB="-20.3"/>
+      <locale_names>
+        <name xml:lang="en-GB">Feast Digital</name>
+        <name xml:lang="zh-Hans">数字-开始移动</name>
+      </locale_names>
+    </loop>
+    <loop id="16" sample_id="d3fb2b11-b561-4c90-a285-f16c5976ea83">
+      <name>Blue Glitch</name>
+      <file name="BASS - E (Freeze) [2021-08-02 142144].m4a"/>
+      <duration beat="16"/>
+      <gain dB="-3"/>
+      <kind>Bass</kind>
+      <tempo value="118"/>
+      <key root="6" scale="minor"/>
+      <time_sig>4_4</time_sig>
+      <sub_category1>Glitch</sub_category1>
+      <sub_category2/>
+      <genre>None</genre>
+      <sub_genre/>
+      <swing root="16" percentage="0"/>
+      <lufs dB="-15.6"/>
+      <locale_names>
+        <name xml:lang="zh-Hans">失误-作曲家音乐会</name>
+        <name xml:lang="en-GB">Blue Glitch</name>
+      </locale_names>
+    </loop>
+    <loop id="17" sample_id="fd3f9df6-09da-42c9-a0e0-b6d7e6312561">
+      <name>Nitro Electronic</name>
+      <file name="BASS - F (Freeze) [2021-08-02 142150].m4a"/>
+      <duration beat="16"/>
+      <gain dB="-3"/>
+      <kind>Bass</kind>
+      <tempo value="118"/>
+      <key root="6" scale="minor"/>
+      <time_sig>4_4</time_sig>
+      <sub_category1>Electronic</sub_category1>
+      <sub_category2/>
+      <genre>None</genre>
+      <sub_genre/>
+      <swing root="16" percentage="0"/>
+      <lufs dB="-16"/>
+      <locale_names>
+        <name xml:lang="zh-Hans">电子-作曲家招手-2</name>
+        <name xml:lang="en-GB">Nitro Electronic</name>
+      </locale_names>
+    </loop>
+    <loop id="18" sample_id="3939a2ef-8db8-4778-8893-7a2017b06fc7">
+      <name>Grit Glitch</name>
+      <file name="SYNTH - A (Freeze) [2021-08-02 142159].m4a"/>
+      <duration beat="32"/>
+      <gain dB="-3"/>
+      <kind>Melodic</kind>
+      <tempo value="118"/>
+      <key root="6" scale="minor"/>
+      <time_sig>4_4</time_sig>
+      <sub_category1>Glitch</sub_category1>
+      <sub_category2/>
+      <genre>None</genre>
+      <sub_genre/>
+      <swing root="16" percentage="0"/>
+      <lufs dB="-22.9"/>
+      <locale_names>
+        <name xml:lang="zh-Hans">失误-艺术家音乐家</name>
+        <name xml:lang="en-GB">Grit Glitch</name>
+      </locale_names>
+    </loop>
+    <loop id="19" sample_id="e30becbe-e7a2-460e-86cf-df4d06568a8f">
+      <name>Serpent Light</name>
+      <file name="SYNTH - B (Freeze) [2021-08-02 142205].m4a"/>
+      <duration beat="16"/>
+      <gain dB="-3"/>
+      <kind>Melodic</kind>
+      <tempo value="118"/>
+      <key root="6" scale="minor"/>
+      <time_sig>4_4</time_sig>
+      <sub_category1>Light</sub_category1>
+      <sub_category2/>
+      <genre>None</genre>
+      <sub_genre/>
+      <swing root="16" percentage="0"/>
+      <lufs dB="-25.3"/>
+      <locale_names>
+        <name xml:lang="zh-Hans">轻音乐-听声音-2</name>
+        <name xml:lang="en-GB">Serpent Light</name>
+      </locale_names>
+    </loop>
+    <loop id="20" sample_id="40226013-ad13-4ab2-ac7e-e5b6b6edd9ab">
+      <name>Cast Pad</name>
+      <file name="SYNTH - C (Freeze) [2021-08-02 142211].m4a"/>
+      <duration beat="16"/>
+      <gain dB="-3"/>
+      <kind>Melodic</kind>
+      <tempo value="118"/>
+      <key root="6" scale="minor"/>
+      <time_sig>4_4</time_sig>
+      <sub_category1>Pad</sub_category1>
+      <sub_category2/>
+      <genre>None</genre>
+      <sub_genre/>
+      <swing root="16" percentage="0"/>
+      <lufs dB="-29.7"/>
+      <locale_names>
+        <name xml:lang="zh-Hans">打击类音色-作曲家绘画-4</name>
+        <name xml:lang="en-GB">Cast Pad</name>
+      </locale_names>
+    </loop>
+    <loop id="21" sample_id="d3dec04b-2e7f-4cad-b391-21d18a4f2cb6">
+      <name>Feast Arp</name>
+      <file name="SYNTH - D (Freeze) [2021-08-02 142223].m4a"/>
+      <duration beat="32"/>
+      <gain dB="-3"/>
+      <kind>Melodic</kind>
+      <tempo value="118"/>
+      <key root="6" scale="minor"/>
+      <time_sig>4_4</time_sig>
+      <sub_category1>Arp</sub_category1>
+      <sub_category2/>
+      <genre>None</genre>
+      <sub_genre/>
+      <swing root="16" percentage="0"/>
+      <lufs dB="-28.5"/>
+      <locale_names>
+        <name xml:lang="zh-Hans">琶音-使用声音-1</name>
+        <name xml:lang="en-GB">Feast Arp</name>
+      </locale_names>
+    </loop>
+    <loop id="22" sample_id="7e58e625-c3b5-4ec1-8e8d-604745be5049">
+      <name>Blue Arp</name>
+      <file name="SYNTH - E (Freeze) [2021-08-02 142254].m4a"/>
+      <duration beat="4"/>
+      <gain dB="-3"/>
+      <kind>Melodic</kind>
+      <tempo value="118"/>
+      <key root="6" scale="minor"/>
+      <time_sig>4_4</time_sig>
+      <sub_category1>Arp</sub_category1>
+      <sub_category2/>
+      <genre>None</genre>
+      <sub_genre/>
+      <swing root="16" percentage="0"/>
+      <lufs dB="-25.7"/>
+      <locale_names>
+        <name xml:lang="en-GB">Blue Arp</name>
+        <name xml:lang="zh-Hans">琶音-作曲家提起-2</name>
+      </locale_names>
+    </loop>
+    <loop id="23" sample_id="15ce8d78-a01a-469d-b792-4a8f1a0b6284">
+      <name>Nitro Arp</name>
+      <file name="SYNTH F (Freeze) [2021-08-02 142306].m4a"/>
+      <duration beat="16"/>
+      <gain dB="-3"/>
+      <kind>Melodic</kind>
+      <tempo value="118"/>
+      <key root="6" scale="minor"/>
+      <time_sig>4_4</time_sig>
+      <sub_category1>Arp</sub_category1>
+      <sub_category2/>
+      <genre>None</genre>
+      <sub_genre/>
+      <swing root="16" percentage="0"/>
+      <lufs dB="-25.4"/>
+      <locale_names>
+        <name xml:lang="en-GB">Nitro Arp</name>
+        <name xml:lang="zh-Hans">琶音-奔跑宏大</name>
+      </locale_names>
+    </loop>
+    <loop id="24" sample_id="92c75d2f-4f44-4410-84e2-69aec8027dbd">
+      <name>Grit Arp</name>
+      <file name="SYNTH 2 A (Freeze) [2021-08-02 142400].m4a"/>
+      <duration beat="16"/>
+      <gain dB="-3"/>
+      <kind>Melodic</kind>
+      <tempo value="118"/>
+      <key root="6" scale="minor"/>
+      <time_sig>4_4</time_sig>
+      <sub_category1>Arp</sub_category1>
+      <sub_category2/>
+      <genre>None</genre>
+      <sub_genre/>
+      <swing root="16" percentage="0"/>
+      <lufs dB="-28.5"/>
+      <locale_names>
+        <name xml:lang="en-GB">Grit Arp</name>
+        <name xml:lang="zh-Hans">琶音-乐队提起</name>
+      </locale_names>
+    </loop>
+    <loop id="25" sample_id="fcde2440-0ce0-4e84-b024-acf8585fe81b">
+      <name>Serpent Pad</name>
+      <file name="SYNTH 2 B (Freeze) [2021-08-02 142401].m4a"/>
+      <duration beat="32"/>
+      <gain dB="-3"/>
+      <kind>Melodic</kind>
+      <tempo value="118"/>
+      <key root="6" scale="minor"/>
+      <time_sig>4_4</time_sig>
+      <sub_category1>Pad</sub_category1>
+      <sub_category2/>
+      <genre>None</genre>
+      <sub_genre/>
+      <swing root="16" percentage="0"/>
+      <lufs dB="-22.4"/>
+      <locale_names>
+        <name xml:lang="zh-Hans">打击类音色-创建声音-3</name>
+        <name xml:lang="en-GB">Serpent Pad</name>
+      </locale_names>
+    </loop>
+    <loop id="26" sample_id="e20c9c15-8be9-4d8b-beb6-eb119e7df0d9">
+      <name>Cast Bright</name>
+      <file name="SYNTH 2 C (Freeze) [2021-08-02 142401].m4a"/>
+      <duration beat="32"/>
+      <gain dB="-3"/>
+      <kind>Melodic</kind>
+      <tempo value="118"/>
+      <key root="6" scale="minor"/>
+      <time_sig>4_4</time_sig>
+      <sub_category1>Bright</sub_category1>
+      <sub_category2/>
+      <genre>None</genre>
+      <sub_genre/>
+      <swing root="16" percentage="0"/>
+      <lufs dB="-29.1"/>
+      <locale_names>
+        <name xml:lang="zh-Hans">清亮-听艺术家-4</name>
+        <name xml:lang="en-GB">Cast Bright</name>
+      </locale_names>
+    </loop>
+    <loop id="27" sample_id="8e695fc3-ef9c-498b-b3ce-4f39eac0742d">
+      <name>Feast Synth</name>
+      <file name="SYNTH 2 - D (Freeze) [2021-08-02 142359].m4a"/>
+      <duration beat="32"/>
+      <gain dB="-3"/>
+      <kind>Melodic</kind>
+      <tempo value="118"/>
+      <key root="6" scale="minor"/>
+      <time_sig>4_4</time_sig>
+      <sub_category1>Synth</sub_category1>
+      <sub_category2/>
+      <genre>None</genre>
+      <sub_genre/>
+      <swing root="16" percentage="0"/>
+      <lufs dB="-30.1"/>
+      <locale_names>
+        <name xml:lang="zh-Hans">合成器-查找说话-4</name>
+        <name xml:lang="en-GB">Feast Synth</name>
+      </locale_names>
+    </loop>
+    <loop id="28" sample_id="03f6c500-5f03-427e-a3cc-5b446a89c9a2">
+      <name>Blue Soft</name>
+      <file name="SYNTH - E (Freeze) [2021-08-02 142402].m4a"/>
+      <duration beat="16"/>
+      <gain dB="-3"/>
+      <kind>Melodic</kind>
+      <tempo value="118"/>
+      <key root="6" scale="minor"/>
+      <time_sig>4_4</time_sig>
+      <sub_category1>Soft</sub_category1>
+      <sub_category2/>
+      <genre>None</genre>
+      <sub_genre/>
+      <swing root="16" percentage="0"/>
+      <lufs dB="-23.3"/>
+      <locale_names>
+        <name xml:lang="zh-Hans">温柔-音乐会音乐家-4</name>
+        <name xml:lang="en-GB">Blue Soft</name>
+      </locale_names>
+    </loop>
+    <loop id="29" sample_id="dc668e12-68c8-4864-b74a-8d6cf4e116a8">
+      <name>Nitro Light</name>
+      <file name="SYNTH 2 F (Freeze) [2021-08-02 142403].m4a"/>
+      <duration beat="16"/>
+      <gain dB="-3"/>
+      <kind>Melodic</kind>
+      <tempo value="118"/>
+      <key root="6" scale="minor"/>
+      <time_sig>4_4</time_sig>
+      <sub_category1>Light</sub_category1>
+      <sub_category2/>
+      <genre>None</genre>
+      <sub_genre/>
+      <swing root="16" percentage="0"/>
+      <lufs dB="-31.3"/>
+      <locale_names>
+        <name xml:lang="en-GB">Nitro Light</name>
+        <name xml:lang="zh-Hans">轻音乐-听跳舞-3</name>
+      </locale_names>
+    </loop>
+    <loop id="30" sample_id="80cb98d8-dca0-433f-9c55-f73b9d942ff6">
+      <name>Grit Short</name>
+      <file name="8 EXTRA 1 [2021-08-03 163743].m4a"/>
+      <duration beat="16"/>
+      <gain dB="0"/>
+      <kind>Melodic</kind>
+      <tempo value="118"/>
+      <key root="6" scale="minor"/>
+      <time_sig>4_4</time_sig>
+      <sub_category1>Short</sub_category1>
+      <sub_category2/>
+      <genre>None</genre>
+      <sub_genre/>
+      <swing root="16" percentage="0"/>
+      <lufs dB="-28.6"/>
+      <locale_names>
+        <name xml:lang="zh-Hans">短-听艺术家-2</name>
+        <name xml:lang="en-GB">Grit Short</name>
+      </locale_names>
+    </loop>
+    <loop id="31" sample_id="37ea6ab4-9292-4676-a0df-b67217e2fe95">
+      <name>Serpent Arp</name>
+      <file name="Serpent Arp_Melodic_Arp_16-00_Loop_Bar_Gbm [2021-08-05 132852].m4a"/>
+      <duration beat="32"/>
+      <gain dB="0"/>
+      <kind>Melodic</kind>
+      <tempo value="118"/>
+      <key root="6" scale="minor"/>
+      <time_sig>4_4</time_sig>
+      <sub_category1>Arp</sub_category1>
+      <sub_category2/>
+      <genre>None</genre>
+      <sub_genre/>
+      <swing root="16" percentage="0"/>
+      <lufs dB="-19.9"/>
+      <locale_names>
+        <name xml:lang="en-GB">Serpent Arp</name>
+        <name xml:lang="zh-Hans">琶音-创建音乐会-3</name>
+      </locale_names>
+    </loop>
+    <loop id="32" sample_id="aa7e3dd9-7532-45a0-8996-2769f385ef2a">
+      <name>Cast Distorted</name>
+      <file name="8 EXTRA 3 [2021-08-03 163751].m4a"/>
+      <duration beat="32"/>
+      <gain dB="0"/>
+      <kind>Melodic</kind>
+      <tempo value="118"/>
+      <key root="6" scale="minor"/>
+      <time_sig>4_4</time_sig>
+      <sub_category1>Distorted</sub_category1>
+      <sub_category2/>
+      <genre>None</genre>
+      <sub_genre/>
+      <swing root="16" percentage="0"/>
+      <lufs dB="-15.7"/>
+      <locale_names>
+        <name xml:lang="zh-Hans">失真-声音说话-1</name>
+        <name xml:lang="en-GB">Cast Distorted</name>
+      </locale_names>
+    </loop>
+    <loop id="33" sample_id="056087c6-d7bf-4d14-9743-be230612379c">
+      <name>Feast Percussion</name>
+      <file name="8 EXTRA 4 [2021-08-03 163756].m4a"/>
+      <duration beat="32"/>
+      <gain dB="0"/>
+      <kind>Percussion</kind>
+      <tempo value="118"/>
+      <key root="6" scale="minor"/>
+      <time_sig>4_4</time_sig>
+      <sub_category1>Percussion</sub_category1>
+      <sub_category2/>
+      <genre>None</genre>
+      <sub_genre/>
+      <swing root="16" percentage="0"/>
+      <lufs dB="-31.5"/>
+      <locale_names>
+        <name xml:lang="zh-Hans">打击乐器-乐队超级-1</name>
+        <name xml:lang="en-GB">Feast Percussion</name>
+      </locale_names>
+    </loop>
+    <loop id="34" sample_id="8cb4c8aa-428c-4818-90a1-df7a99c94aa9">
+      <name>Blue Vocal</name>
+      <file name="8 EXTRA 5 [2021-08-03 163759].m4a"/>
+      <duration beat="32"/>
+      <gain dB="0"/>
+      <kind>Vocal</kind>
+      <tempo value="118"/>
+      <key root="6" scale="minor"/>
+      <time_sig>4_4</time_sig>
+      <sub_category1>Vocal</sub_category1>
+      <sub_category2/>
+      <genre>None</genre>
+      <sub_genre/>
+      <swing root="16" percentage="0"/>
+      <lufs dB="-23.9"/>
+      <locale_names>
+        <name xml:lang="en-GB">Blue Vocal</name>
+        <name xml:lang="zh-Hans">人声-作品提起-1</name>
+      </locale_names>
+    </loop>
+    <loop id="35" sample_id="b2dee2fd-b1b7-4994-85a5-acd85fec62b0">
+      <name>Nitro Synth</name>
+      <file name="Nitro Synth_Melodic_Synth_16-00_Loop_Bar_Gbm [2021-08-05 131445].m4a"/>
+      <duration beat="32"/>
+      <gain dB="0"/>
+      <kind>Melodic</kind>
+      <tempo value="118"/>
+      <key root="6" scale="minor"/>
+      <time_sig>4_4</time_sig>
+      <sub_category1>Synth</sub_category1>
+      <sub_category2/>
+      <genre>None</genre>
+      <sub_genre/>
+      <swing root="16" percentage="0"/>
+      <lufs dB="-18.7"/>
+      <locale_names>
+        <name xml:lang="en-GB">Nitro Synth</name>
+        <name xml:lang="zh-Hans">合成器-听绘画-2</name>
+      </locale_names>
+    </loop>
+    <loop id="36" sample_id="12901ae0-819c-418e-9121-8c5cd6f5d43a">
+      <name>Grit SFX</name>
+      <file name="Grit SFX_FX_SFX_16-00_Loop_Bar_None [2021-08-05 132731].m4a"/>
+      <duration beat="8"/>
+      <gain dB="-3"/>
+      <kind>FX</kind>
+      <tempo value="118"/>
+      <key root="" scale=""/>
+      <time_sig>4_4</time_sig>
+      <sub_category1>SFX</sub_category1>
+      <sub_category2/>
+      <genre>None</genre>
+      <sub_genre/>
+      <swing root="16" percentage="0"/>
+      <lufs dB="-21.6"/>
+      <locale_names>
+        <name xml:lang="en-GB">Grit SFX</name>
+        <name xml:lang="zh-Hans">音效-移动绘画-3</name>
+      </locale_names>
+    </loop>
+    <loop id="37" sample_id="04ad71bc-b7ee-40af-893a-6941748997ca">
+      <name>Serpent Effects</name>
+      <file name="FX 1 - C (Freeze) [2021-08-02 124224].m4a"/>
+      <duration beat="8"/>
+      <gain dB="-3"/>
+      <kind>FX</kind>
+      <tempo value="118"/>
+      <key root="" scale=""/>
+      <time_sig>4_4</time_sig>
+      <sub_category1>Effects</sub_category1>
+      <sub_category2/>
+      <genre>None</genre>
+      <sub_genre/>
+      <swing root="16" percentage="0"/>
+      <lufs dB="-26.1"/>
+      <locale_names>
+        <name xml:lang="zh-Hans">效果-提起移动-5</name>
+        <name xml:lang="en-GB">Serpent Effects</name>
+      </locale_names>
+    </loop>
+    <loop id="38" sample_id="c88a39d5-b521-4d65-a460-28cbbb8b787d">
+      <name>Cast Vocal</name>
+      <file name="8-Audio 0001 [2021-08-05 132955].m4a"/>
+      <duration beat="16"/>
+      <gain dB="0"/>
+      <kind>Vocal</kind>
+      <tempo value="118"/>
+      <key root="6" scale="minor"/>
+      <time_sig>4_4</time_sig>
+      <sub_category1>Vocal</sub_category1>
+      <sub_category2/>
+      <genre>None</genre>
+      <sub_genre/>
+      <swing root="16" percentage="0"/>
+      <lufs dB="-24.1"/>
+      <locale_names>
+        <name xml:lang="en-GB">Cast Vocal</name>
+        <name xml:lang="zh-Hans">人声-声音音乐节-3</name>
+      </locale_names>
+    </loop>
+    <loop id="39" sample_id="04a274e1-947f-4fb8-9bce-2da5d17d7688">
+      <name>Feast SFX</name>
+      <file name="FX 1 - D (Freeze) [2021-08-02 143024].m4a"/>
+      <duration beat="32"/>
+      <gain dB="-3"/>
+      <kind>FX</kind>
+      <tempo value="118"/>
+      <key root="" scale=""/>
+      <time_sig>4_4</time_sig>
+      <sub_category1>SFX</sub_category1>
+      <sub_category2/>
+      <genre>None</genre>
+      <sub_genre/>
+      <swing root="16" percentage="0"/>
+      <lufs dB="-26.5"/>
+      <locale_names>
+        <name xml:lang="zh-Hans">音效-创建听-2</name>
+        <name xml:lang="en-GB">Feast SFX</name>
+      </locale_names>
+    </loop>
+    <loop id="40" sample_id="e60c7dcb-5e4f-46ec-8d70-a636c7bd7c98">
+      <name>Blue SFX</name>
+      <file name="FX 1 - E (Freeze) [2021-08-02 143105].m4a"/>
+      <duration beat="8"/>
+      <gain dB="-3"/>
+      <kind>FX</kind>
+      <tempo value="118"/>
+      <key root="" scale=""/>
+      <time_sig>4_4</time_sig>
+      <sub_category1>SFX</sub_category1>
+      <sub_category2/>
+      <genre>None</genre>
+      <sub_genre/>
+      <swing root="16" percentage="0"/>
+      <lufs dB="-27.7"/>
+      <locale_names>
+        <name xml:lang="zh-Hans">音效-使用穿戴-2</name>
+        <name xml:lang="en-GB">Blue SFX</name>
+      </locale_names>
+    </loop>
+    <loop id="41" sample_id="5d36de68-1bf9-4dea-88e6-d7f75da47745">
+      <name>Nitro Effects</name>
+      <file name="FX 7 (Freeze) [2021-08-02 124228].m4a"/>
+      <duration beat="8"/>
+      <gain dB="-3"/>
+      <kind>FX</kind>
+      <tempo value="118"/>
+      <key root="" scale=""/>
+      <time_sig>4_4</time_sig>
+      <sub_category1>Effects</sub_category1>
+      <sub_category2/>
+      <genre>None</genre>
+      <sub_genre/>
+      <swing root="16" percentage="0"/>
+      <lufs dB="-28.9"/>
+      <locale_names>
+        <name xml:lang="zh-Hans">效果-开始超级-3</name>
+        <name xml:lang="en-GB">Nitro Effects</name>
+      </locale_names>
+    </loop>
+    <loop id="42" sample_id="04bed05d-d5ba-4010-93c0-cc8f7880751e">
+      <name>Grit Effects</name>
+      <file name="Grit Effects_FX_Effects_16-00_Retrigger_Bar_None [2021-08-05 180604].m4a"/>
+      <duration beat="16"/>
+      <gain dB="-3"/>
+      <kind>FX</kind>
+      <tempo value="118"/>
+      <key root="" scale=""/>
+      <time_sig>4_4</time_sig>
+      <sub_category1>Effects</sub_category1>
+      <sub_category2/>
+      <genre>None</genre>
+      <sub_genre/>
+      <swing root="16" percentage="0"/>
+      <lufs dB="-30.4"/>
+      <locale_names>
+        <name xml:lang="en-GB">Grit Effects</name>
+        <name xml:lang="zh-Hans">效果-开始招手-5</name>
+      </locale_names>
+    </loop>
+    <loop id="43" sample_id="c7674ae5-3a2a-4495-aad0-3603392a77af">
+      <name>Serpent Brutal</name>
+      <file name="FX 1 -B (Freeze) (Freeze) [2021-08-02 143234].m4a"/>
+      <duration beat="8"/>
+      <gain dB="-3"/>
+      <kind>FX</kind>
+      <tempo value="118"/>
+      <key root="" scale=""/>
+      <time_sig>4_4</time_sig>
+      <sub_category1>Brutal</sub_category1>
+      <sub_category2/>
+      <genre>None</genre>
+      <sub_genre/>
+      <swing root="16" percentage="0"/>
+      <lufs dB="-27.6"/>
+      <locale_names>
+        <name xml:lang="en-GB">Serpent Brutal</name>
+        <name xml:lang="zh-Hans">粗犷-作品移动-1</name>
+      </locale_names>
+    </loop>
+    <loop id="44" sample_id="5517e4e1-978e-45b5-8647-df24a1d93c83">
+      <name>Cast SFX</name>
+      <file name="FX 5 (Freeze) (Freeze) [2021-08-02 124208].m4a"/>
+      <duration beat="8"/>
+      <gain dB="-3"/>
+      <kind>FX</kind>
+      <tempo value="118"/>
+      <key root="" scale=""/>
+      <time_sig>4_4</time_sig>
+      <sub_category1>SFX</sub_category1>
+      <sub_category2/>
+      <genre>None</genre>
+      <sub_genre/>
+      <swing root="16" percentage="0"/>
+      <lufs dB="-29"/>
+      <locale_names>
+        <name xml:lang="en-GB">Cast SFX</name>
+        <name xml:lang="zh-Hans">音效-奔跑音乐节-3</name>
+      </locale_names>
+    </loop>
+    <loop id="45" sample_id="8e8fb10b-2b61-43df-8924-67569dfd96bc">
+      <name>Feast Effects</name>
+      <file name="9-Audio 1 [2021-08-05 180735].m4a"/>
+      <duration beat="8"/>
+      <gain dB="0"/>
+      <kind>FX</kind>
+      <tempo value="118"/>
+      <key root="" scale=""/>
+      <time_sig>4_4</time_sig>
+      <sub_category1>Effects</sub_category1>
+      <sub_category2/>
+      <genre>None</genre>
+      <sub_genre/>
+      <swing root="16" percentage="0"/>
+      <lufs dB="-37"/>
+      <locale_names>
+        <name xml:lang="en-GB">Feast Effects</name>
+        <name xml:lang="zh-Hans">效果-移动艺术家-1</name>
+      </locale_names>
+    </loop>
+    <loop id="46" sample_id="01316b43-8014-48ff-b228-071cf79d917d">
+      <name>Blue Effects</name>
+      <file name="Blue Effects_FX_Effects_16-00_Retrigger_Bar_None [2021-08-05 115631].m4a"/>
+      <duration beat="8"/>
+      <gain dB="-3"/>
+      <kind>FX</kind>
+      <tempo value="118"/>
+      <key root="" scale=""/>
+      <time_sig>4_4</time_sig>
+      <sub_category1>Effects</sub_category1>
+      <sub_category2/>
+      <genre>None</genre>
+      <sub_genre/>
+      <swing root="16" percentage="0"/>
+      <lufs dB="-21.8"/>
+      <locale_names>
+        <name xml:lang="en-GB">Blue Effects</name>
+        <name xml:lang="zh-Hans">效果-艺术家音乐节-4</name>
+      </locale_names>
+    </loop>
+    <loop id="47" sample_id="c4af2482-f53f-42d5-a855-aaa499c590a7">
+      <name>Nitro SFX</name>
+      <file name="9-Audio 2 [2021-08-05 180848].m4a"/>
+      <duration beat="16"/>
+      <gain dB="0"/>
+      <kind>FX</kind>
+      <tempo value="118"/>
+      <key root="6" scale="minor"/>
+      <time_sig>4_4</time_sig>
+      <sub_category1>SFX</sub_category1>
+      <sub_category2/>
+      <genre>None</genre>
+      <sub_genre/>
+      <swing root="16" percentage="0"/>
+      <lufs dB="-29.4"/>
+      <locale_names>
+        <name xml:lang="en-GB">Nitro SFX</name>
+        <name xml:lang="zh-Hans">音效-创建超级-3</name>
+      </locale_names>
+    </loop>
+  </loops>
+  <sessions>
+    <session title="Modular EBM" tempo="118" key_root="6" key_scale="minor">
+      <channel>
+        <pad trigger="loop bar" loopId="0">
+          <gain dB="0"/>
+        </pad>
+        <pad trigger="loop bar" loopId="1">
+          <gain dB="0"/>
+        </pad>
+        <pad trigger="loop bar" loopId="2">
+          <gain dB="0"/>
+        </pad>
+        <pad trigger="loop bar" loopId="3">
+          <gain dB="0"/>
+        </pad>
+        <pad trigger="loop bar" loopId="4">
+          <gain dB="0"/>
+        </pad>
+        <pad trigger="loop bar" loopId="5">
+          <gain dB="0"/>
+        </pad>
+      </channel>
+      <channel>
+        <pad trigger="loop bar" loopId="6">
+          <gain dB="0"/>
+        </pad>
+        <pad trigger="loop bar" loopId="7">
+          <gain dB="0"/>
+        </pad>
+        <pad trigger="loop bar" loopId="8">
+          <gain dB="0"/>
+        </pad>
+        <pad trigger="loop bar" loopId="9">
+          <gain dB="0"/>
+        </pad>
+        <pad trigger="loop bar" loopId="10">
+          <gain dB="0"/>
+        </pad>
+        <pad trigger="loop bar" loopId="11">
+          <gain dB="0"/>
+        </pad>
+      </channel>
+      <channel>
+        <pad trigger="loop bar" loopId="12">
+          <gain dB="0"/>
+        </pad>
+        <pad trigger="loop bar" loopId="13">
+          <gain dB="0"/>
+        </pad>
+        <pad trigger="loop bar" loopId="14">
+          <gain dB="0"/>
+        </pad>
+        <pad trigger="loop bar" loopId="15">
+          <gain dB="0"/>
+        </pad>
+        <pad trigger="loop bar" loopId="16">
+          <gain dB="0"/>
+        </pad>
+        <pad trigger="loop bar" loopId="17">
+          <gain dB="0"/>
+        </pad>
+      </channel>
+      <channel>
+        <pad trigger="loop bar" loopId="18">
+          <gain dB="0"/>
+        </pad>
+        <pad trigger="loop bar" loopId="19">
+          <gain dB="0"/>
+        </pad>
+        <pad trigger="loop bar" loopId="20">
+          <gain dB="0"/>
+        </pad>
+        <pad trigger="loop bar" loopId="21">
+          <gain dB="0"/>
+        </pad>
+        <pad trigger="loop bar" loopId="22">
+          <gain dB="0"/>
+        </pad>
+        <pad trigger="loop bar" loopId="23">
+          <gain dB="0"/>
+        </pad>
+      </channel>
+      <channel>
+        <pad trigger="loop bar" loopId="24">
+          <gain dB="0"/>
+        </pad>
+        <pad trigger="loop bar" loopId="25">
+          <gain dB="0"/>
+        </pad>
+        <pad trigger="loop bar" loopId="26">
+          <gain dB="0"/>
+        </pad>
+        <pad trigger="loop bar" loopId="27">
+          <gain dB="0"/>
+        </pad>
+        <pad trigger="loop bar" loopId="28">
+          <gain dB="0"/>
+        </pad>
+        <pad trigger="loop bar" loopId="29">
+          <gain dB="0"/>
+        </pad>
+      </channel>
+      <channel>
+        <pad trigger="loop bar" loopId="30">
+          <gain dB="0"/>
+        </pad>
+        <pad trigger="loop bar" loopId="31">
+          <gain dB="0"/>
+        </pad>
+        <pad trigger="loop bar" loopId="32">
+          <gain dB="0"/>
+        </pad>
+        <pad trigger="loop bar" loopId="33">
+          <gain dB="0"/>
+        </pad>
+        <pad trigger="loop bar" loopId="34">
+          <gain dB="0"/>
+        </pad>
+        <pad trigger="loop bar" loopId="35">
+          <gain dB="0"/>
+        </pad>
+      </channel>
+      <channel>
+        <pad trigger="loop bar" loopId="36">
+          <gain dB="0"/>
+        </pad>
+        <pad trigger="loop bar" loopId="37">
+          <gain dB="0"/>
+        </pad>
+        <pad trigger="loop bar" loopId="38">
+          <gain dB="0"/>
+        </pad>
+        <pad trigger="loop bar" loopId="39">
+          <gain dB="0"/>
+        </pad>
+        <pad trigger="loop bar" loopId="40">
+          <gain dB="0"/>
+        </pad>
+        <pad trigger="loop bar" loopId="41">
+          <gain dB="0"/>
+        </pad>
+      </channel>
+      <channel>
+        <pad trigger="retrigger bar" loopId="42">
+          <gain dB="0"/>
+        </pad>
+        <pad trigger="retrigger bar" loopId="43">
+          <gain dB="0"/>
+        </pad>
+        <pad trigger="retrigger bar" loopId="44">
+          <gain dB="0"/>
+        </pad>
+        <pad trigger="retrigger bar" loopId="45">
+          <gain dB="0"/>
+        </pad>
+        <pad trigger="retrigger bar" loopId="46">
+          <gain dB="0"/>
+        </pad>
+        <pad trigger="retrigger bar" loopId="47">
+          <gain dB="0"/>
+        </pad>
+      </channel>
+    </session>
+  </sessions>
+</root>

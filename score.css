@@ -1,0 +1,60 @@
+@import 'https://fonts.googleapis.com/css?family=Press+Start+2P';
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Press Start 2P', sans-serif;
+  background-color: #333;
+  color: #ccc;
+}
+@keyframes delaypause1 {0% {--delaypause: running;} 100% {--delaypause: running;}}
+@keyframes delaypause2 {0% {--delaypause: running;} 100% {--delaypause: running;}}
+#game {
+  position: relative;
+  width: 100vmin;
+  height: 15vmin;
+  margin: 0 auto;
+  --delaypause: paused;
+  animation: none 0.1s;
+}
+#scoreText {
+  position: absolute;
+  top: 2vmin;
+  left: 2vmin;
+  margin: 0;
+  padding: 0;
+  font-size: 4vmin;
+  text-transform: uppercase;
+}
+#scoreText {
+  left: initial;
+  right: 2vmin;
+}
+#score {
+  position: absolute;
+  top: 6vmin;
+  right: 2vmin;
+  display: flex;
+  width: 20vmin;
+  height: 5vmin;
+  overflow: hidden;
+  font-size: 4vmin;
+}
+#levelText {
+  position: absolute;
+  top: 2vmin;
+  left: 2vmin;
+  margin: 0;
+  padding: 0;
+  font-size: 4vmin;
+  text-transform: uppercase;
+}
+#level {
+  position: absolute;
+  top: 6vmin;
+  left: 2vmin;
+  display: flex;
+  width: 20vmin;
+  height: 5vmin;
+  overflow: hidden;
+  font-size: 4vmin;
+}
