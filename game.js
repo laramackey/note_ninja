@@ -126,8 +126,8 @@ class Game {
     this.ctx.scale(scale, scale);
     this.moveSpeed = 9;
     this.moveGridCountdown = 9;
-    this.changeLevelSpeed = 100;
-    this.changeLevelCountdown = 100;
+    this.changeLevelSpeed = 250;
+    this.changeLevelCountdown = 250;
     this.currentLevel = 1;
     this.gridStartingXIndex = 0;
     this.shownModal = false;
@@ -139,6 +139,9 @@ class Game {
     document.addEventListener('keydown', (e) => {
       switch (e.key) {
         case "ArrowUp":
+          this.ninja.queueJump();
+          break;
+        case " ":
           this.ninja.queueJump();
           break;
         default:
